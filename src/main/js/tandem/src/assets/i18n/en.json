@@ -1,0 +1,40 @@
+{
+    "home": "Home",
+    "profile":"My Profile",
+    "Login":"Login",
+    "signUp":"Sign Up",
+    "Name":"Name",
+    "surname":"Surname",
+    "logout":"Logout",
+    "languageSupport":"Language Support",
+    "comingSoon":"Coming Soon",
+    "loginPageEnter":"Login Page",
+    "signUpPageEnter":"Sign Up Page",
+    "rememberMe":"Check me out",
+    "password":"Password",
+    "repeatPassword":"Repeat Password",
+    "haveAccount":"if you dont have acccount , You can signup.",
+    "Submit":"Submit",
+    "selectlearntlng":"Select Language Which You Want to Learn",
+    "selectMaintlng":"Select your main Language",
+    "signupSuccesfullMessage":"Sign Up Successful",
+    "useremailexistinsystem":"User email exist in system.",
+    "myfriendsTxt":"My Friends",
+    "suggestionFriendsTxt":"Suggestion Friends",
+    "aboutMeTxt":"About Me",
+    "CreationDateTxt":"Creation Date",
+    "wanttolearnlang":"want to learn Language",
+    "myfriendListTxt":"My Friends List",
+    "suggestionfriendsTxt":"Suggestion Friends",
+    "editaboutMeTxt":"Edit My Info ",
+    "ChangeSubmitforData":"Save Changes",
+    "nextStep":"Next Step",
+    "passwordError":"Password Not Matched",
+    "AddWord":"Add word to My List",
+    "MyList":"Word List",
+    "addwordTxt":"Add Word"
+
+
+
+
+}

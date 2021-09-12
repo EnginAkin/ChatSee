@@ -1,0 +1,51 @@
+{
+    "home": "Anasayfa",
+    "profile":"Profilim",
+    "signUp":"Kayıt Ol",
+    "Login":"Giriş Yap",
+    "Name":"İsim",
+    "surname":"Soyad",
+    "logout":"Çıkış Yap",
+    "languageSupport":"Dil Desteği",
+    "comingSoon":"Yakında Gelecek",
+    "loginPageEnter":"Giriş Yap ",
+    "signUpPageEnter":"Üye Ol Sayfası",
+    "rememberMe":"Beni Hatırla",
+    "password":"Şifre",
+    "repeatPassword":"Şifre Tekrarı",
+    "haveAccount":"Eğer Hesabın Yoksa , Kayıt Olabilirsiniz.",
+    "Submit":"Üye Ol",
+    "selectlearntlng":"Öğrenmek istediğin dili seç",
+    "selectMaintlng":"Anadilini Seç",
+    "signupSuccesfullMessage":"Kayıt Başarılı",
+    "useremailexistinsystem":"Bu mail adresi kullanılmış.",
+    "myfriendsTxt":"Arkadaşlarım",
+    "suggestionFriendsTxt":"Önerilen Arkadaşlar",
+    "aboutMeTxt":"Hakkımda",
+    "CreationDateTxt":"Oluşturulma Tarihi",    
+    "wanttolearnlang":"Öğrenmek istediğin dil",
+    "myfriendListTxt":"Arkadaşlarımın Listesi",
+    "suggestionfriendsTxt":"Önerilen Arkadaşlar",
+    "editaboutMeTxt":"Bilgilerimi Düzenle",
+    "ChangeSubmitforData":"Değişiklikleri Kaydet",
+    "nextStep":"Sonraki Adım",
+    "passwordError":"Şifre Hatalı",
+    "AddWord":"Kelime Ekle",
+    "MyList":"Kelime Listesi"
+    ,"addwordTxt":"Kelime Ekle"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

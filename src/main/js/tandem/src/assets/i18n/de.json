@@ -1,0 +1,39 @@
+{
+    "home": "Heim",
+    "profile":"Mein Profil",
+    "Login":"Anmeldung",
+    "signUp":"Einloggen",
+    "Name":"Name",
+    "surname":"Nachname",
+    "logout":"Ausloggen",
+    "languageSupport":"Sprachunterstützung",
+    "comingSoon":"Kommt bald",
+    "loginPageEnter":"Loginseite",
+    "signUpPageEnter":"Anmeldeseite",
+    "rememberMe":"Schau mich an",
+    "password":"Passwort",
+    "repeatPassword":"Passwort wiederholen",
+    "haveAccount":"Wenn Sie kein Konto haben, können Sie sich anmelden",
+    "Submit":"einreichen",
+    "selectlearntlng":"Wählen Sie die Sprache aus, die Sie lernen möchten",
+    "selectMaintlng":"Wählen Sie Ihre Hauptsprache",
+    "signupSuccesfullMessage":"Registrierung erfolgreich",
+    "useremailexistinsystem":"Benutzer-E-Mail im System vorhanden.",
+    "myfriendsTxt":"Meine Freunde",
+    "suggestionFriendsTxt":"Vorschlag Freunde",
+    "aboutMeTxt":"Über mich",
+    "CreationDateTxt":"Erstellungsdatum",
+    "wanttolearnlang":"Sprache lernen wollen",
+    "myfriendListTxt":"Meine Freundesliste",
+    "suggestionfriendsTxt":"Vorschlag Freunde",
+    "editaboutMeTxt":"bearbeite meine Infos    ",
+    "ChangeSubmitforData":"Änderungen speichern    ", 
+    "AddWord":"Wort zu meiner Liste hinzufügen  "
+    ,"MyList":"Wortliste"
+
+
+
+
+
+
+}
